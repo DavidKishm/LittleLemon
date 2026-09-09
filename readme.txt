@@ -1,3 +1,5 @@
+Dont forget about changing DB login and password in settings.py
+
 Menu API:
 GET /restaurant/menu/
 GET /restaurant/menu/<id>/
